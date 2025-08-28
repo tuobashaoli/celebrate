@@ -5,7 +5,7 @@ var config = {
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的凌云",
-        "第一个在一起的七夕节",
+        "第一个咱俩都在家、在一起的七夕节",
         "愿你天天开心",
         "爱你亲亲"
     ],
@@ -28,7 +28,7 @@ var config = {
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
+        cake_fadein: "小蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "七夕快乐",
         story: "A MESSAGE FOR YOU",
